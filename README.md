@@ -13,7 +13,9 @@ It's implemented in Python using the Pygame library (and a given amount of help 
    
 3. Open your command window by writing cmd on your Start menu (on Windows) and press enter
 
-4. Check if Python is installed correctly by running the command python --version.
+4. Check if Python is installed correctly by running the command
+
+   python --version.
 
 5. Install the required dependencies with the following command in cmd:
   pip install pygame
